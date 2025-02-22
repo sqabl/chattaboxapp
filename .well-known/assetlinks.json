@@ -1,0 +1,13 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "Chattabox",
+    "package_name": "com.agathaessential.squabl",
+    "sha256_cert_fingerprints":
+    [
+      "B2:EB:F6:92:08:28:BC:46:B5:FE:30:40:C2:A8:85:AD:85:E2:BA:30:A7:BD:59:AD:07:3C:FF:14:62:10:05:33",
+      "A9:1A:57:2D:63:78:51:C7:3F:A6:37:1B:90:EE:03:81:84:CF:5F:BC:53:00:EC:41:26:D9:CC:CE:E8:05:9A:C7",
+      "8f:03:cb:ff:6a:2c:80:07:7b:bc:f4:70:66:98:4e:11:e1:90:e1:bb:2a:c6:85:36:d3:65:f1:e5:59:24:f8:bc"
+    ]
+  }
+}]
